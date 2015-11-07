@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>HTML5 responsive website</title>
+</head>
+<body>
+== Debugging on Chrome ==
+- Verzeichnis in Chrome hinzufügen
+- Breakpoints
+--  Conditional Breakpoints
+== Debugging on VisualStudio (MAC) ==
+== Debugging on VisualStudio (Windows) ==
+
+= https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks=
+= http://getbootstrap.com/ =
+= modernizer =
+= http://gruntjs.com/=
+A Taskrunner
+= https://code.google.com/p/selenium/wiki/WebDriverJs =
+= TypeScript =
+==Webserver on Mac1==
+sudo apachectl start
+/private/etc/apache2/httpd.conf
+== WAMP ==
+== Required Node JS ==
+160k npm packages4
+sudo npm uninstall npm -g
+npm -v
+node -v
+
+== Using Less ==
+npm install less
+style.less
+lessc style.less style.css
+lessc --source-map=header.map header.less header.css
+Add to Project1 to Sources in Chrome 
+
+sudo npm install less-plugin-clean-css
+lessc style.less style.css --clean-css
+
+== TypeScript ==
+
+== Start Testing Stuff ==
+Frontend
+
+https://code.google.com/p/selenium/wiki/WebDriverJs
+
+
+Changes Tracked!
+https://www.npmjs.com/package/fs-change
+npm install -g fs-change
+
+
+= Code =
+code format: shift - alt - f
+
+= Postman =
+= Fiddler =
+
+
+== Angular JS ==
+npm install angular@1.4.7
+
+</body>
+
+</html>
